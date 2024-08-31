@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day2-code/array/array.iml" filepath="$PROJECT_DIR$/day2-code/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-code/day2-code.iml" filepath="$PROJECT_DIR$/day2-code/day2-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-code/mianxiangduixiang/mianxiangduixiang.iml" filepath="$PROJECT_DIR$/day2-code/mianxiangduixiang/mianxiangduixiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-code/zonghelianxi/zonghelianxi.iml" filepath="$PROJECT_DIR$/day2-code/zonghelianxi/zonghelianxi.iml" />
+    </modules>
+  </component>
+</project>
